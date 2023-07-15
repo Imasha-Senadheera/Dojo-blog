@@ -17,7 +17,7 @@
 }
 
 .navbar h1 {
-  color: #0492C2;
+  color: #f1356d;
 }
 
 .navbar .links {
@@ -31,7 +31,7 @@
 }
 
 .navbar a:hover {
-  color: #0492C2;
+  color: #f1356d;
 }
 
 .content {
@@ -53,6 +53,6 @@
 
 .blog-preview h2 {
   font-size: 20px;
-  color: #0492C2;
+  color: #f1356d;
   margin-bottom: 8px;
 }
