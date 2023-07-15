@@ -1,6 +1,6 @@
 # Dojo Blog
 
-This is my very 1st react.js project. I did this mainly using JavaScript and React.js. I code this to practice React hooks, Fetch, and Props. <br> <br>
+This is my very 1st react.js project. I did this mainly using JavaScript and React.js. I made this to practice React hooks, Fetch, and Props. <br> <br>
 
 ## Screen-Shots of the website 
 <br>
